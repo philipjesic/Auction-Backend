@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+# logging files
+*.log
+
+# environment
+.env
+
+# misc
+/.vscode
